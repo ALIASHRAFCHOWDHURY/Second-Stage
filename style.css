@@ -1,0 +1,27 @@
+.font-style-italic{
+        font-family: 'Miama';
+        font-style: italic;
+        font-weight: 400;
+        src: local('Miama'), url('https://fonts.cdnfonts.com/css/miama-nueva');
+}
+.font-style{
+        font-family: 'Miama';
+        font-style: normal;
+        font-weight: 300;
+        src: local('Miama'), url('https://fonts.cdnfonts.com/s/302/Miama.woff') format('woff');
+}
+.inter-font-one{
+        font-family: "Inter", sans-serif;
+        font-style: italic;
+        font-optical-sizing: 36px;
+        font-weight: 800;
+      }
+.inter-font-two{
+        font-family: "Inter", sans-serif;
+        font-style: normal;
+        font-optical-sizing: 36px;
+        font-weight: 800;
+}
+.color{
+        background-color: #111111;
+}
