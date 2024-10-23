@@ -178,3 +178,315 @@
         line-height: 10px;
         color: rgb(255, 255, 255, 1);
 }
+/* main */
+
+.change-part{
+        display: flex;
+        justify-content: center;      
+       
+}
+.change-text{
+        width: 670px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        margin-top: 80px;
+
+}
+.change-h1{
+        font-size: 48px;
+        font-weight: 900px;
+        line-height: 20px;
+        
+}
+.change-p{
+        font-size: 15px;
+        font-weight: 400px;
+        line-height: 15px;
+        
+}
+.change-last-part{
+        display: flex;
+        justify-content: center;
+}
+.change-img{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        width: 1040px;
+        margin-top: 20px;
+}
+.box-1{
+        line-height: 15px;
+        width: 230px;
+}
+.box-1-pic{
+        display: flex;
+        justify-content: center;
+}
+.box-1-img{
+        border-radius: 50%; 
+       
+}
+.box-1-h{
+        font-weight: 600;
+        font-size: 18px;
+        color: rgb(255, 255, 255, 1);
+        text-align: center;
+}
+.box-1-p{
+        font-weight: 400;
+        font-size: 14px;
+        color: rgb(255, 255, 255, 1);
+        text-align: center;
+}
+.run-container{
+        display: flex;
+        justify-content: center;
+        margin-top: 50px;
+       
+}
+.run-part{
+        width: 1050px;
+        border-radius: 15px;
+        background-color: rgba(34, 34, 34, 1);
+        display: flex;
+        justify-content: space-between;
+        padding: 30px;
+        
+}
+.run-text{
+       width: 440px;
+}
+.run-h{
+        font-size: 48px;
+        font-weight: 900;
+        line-height: 57px;
+        color: rgb(255, 255, 255, 1);
+}
+.run-p{
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+        color: rgb(255, 255, 255, 1);
+}
+.run-img{
+        width: 368px;
+}
+.home-workout-container{
+        display: flex;
+        justify-content: center;
+        margin-top: 50px;
+       
+}
+.home-workout-part{
+        width: 1050px;
+        border-radius: 15px;
+        background-color: rgba(34, 34, 34, 1);
+        display: flex;
+        justify-content: space-between;
+        padding: 30px;
+        
+}
+.home-workout-text{
+       width: 340px;
+}
+.home-workout-h{
+        font-size: 28px;
+        font-weight: 900;
+        line-height: 57px;
+        color: rgb(255, 255, 255, 1);
+}
+.home-workout-p{
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+        color: rgb(255, 255, 255, 1);
+}
+.home-workout-img{
+        width: 368px;
+        border-radius: 20px;
+}
+.change2-part{
+        display: flex;
+        justify-content: center;      
+       
+}
+.change2-text{
+        width: 670px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        margin-top: 80px;
+
+}
+.change2-h1{
+        font-size: 48px;
+        font-weight: 900px;
+        line-height: 40px;
+        
+}
+.change2-p{
+        font-size: 15px;
+        font-weight: 400px;
+        line-height: 15px;
+        
+}
+.change3-part{
+        display: flex;
+        justify-content: center;      
+       
+}
+.change3-text{
+        width: 670px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        margin-top: 80px;
+
+}
+.change3-h1{
+        font-size: 48px;
+        font-weight: 900px;
+        line-height: 40px;
+        
+}
+.change3-p{
+        font-size: 15px;
+        font-weight: 400px;
+        line-height: 15px;
+        
+}
+.team-container{
+       display: flex;
+       justify-content:  center;
+}
+.team-part{
+        width: 1080px;
+        border-radius: 15px;
+        padding: 15px;
+        background-color:rgba(34, 34, 34, 1) ;
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+}
+.team1-img{
+        width: 320px;
+        border-radius: 15px;
+}
+.team-box{
+        padding: 5px;
+        width: 321px;
+}
+.team-name{
+        position: relative;
+        top: -70px;
+        left: 10px;
+}
+.team-name-h{
+        font-size: 20px;
+        font-weight: 900;
+        line-height: 10px;
+        color: rgb(255, 255, 255, 1);
+}
+.team-name-p{
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 10px;
+        color: rgb(255, 255, 255, 1);
+}
+.change4-part{
+        display: flex;
+        justify-content: center;      
+       margin-bottom:30px ;
+}
+.change4-text{
+        width: 670px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        margin-top: 80px;
+
+}
+.change4-h1{
+        font-size: 48px;
+        font-weight: 900px;
+        line-height: 40px;
+        
+}
+.change4-p{
+        font-size: 15px;
+        font-weight: 400px;
+        line-height: 15px;
+        
+}
+.bmi-container{
+        border-top: 1px solid rgb(255, 255, 255, 1);
+        border-bottom: 1px solid rgb(255, 255, 255, 1);
+        background-color:rgba(34, 34, 34, 1)
+        
+}
+
+
+.bmi-chart{
+        width: 450px;
+        
+}
+/* table styles */
+table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 310px;
+      }
+      
+      td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+      }
+      
+      tr:nth-child(even) {
+        background-color: #fdfafa;
+ }
+ .bmi{
+        display: flex;
+        justify-content: space-evenly;
+        padding: 40px;
+ }
+ .bmi-part-one{
+        width: 450px;
+        
+ }
+ .cal-top-h{
+        font-family: Inter;
+        font-size: 28px;
+        font-weight: 900;
+        line-height: 33.6px;
+        color:rgb(255, 255, 255, 1);
+ }
+  .cal-top-p{
+        font-family: Inter;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+        color:rgb(255, 255, 255, 1);
+  }
+  .bmi-part-two{
+        width: 650px;
+       
+  }
+  .input-one{
+        width: 280px;
+        padding: 10px;
+        border-radius: 8px;
+        margin: 5px;
+  }
+  .input-two{
+        width: 280px;
+        padding: 10px;
+        border-radius: 8px;
+        margin: 5px;
+  }
+  .input-three{
+        width: 600px;
+        padding: 10px;
+        border-radius: 8px;
+        margin: 5px;
+  }
+.cal-btn{
+        margin-top: 30px;
+}
